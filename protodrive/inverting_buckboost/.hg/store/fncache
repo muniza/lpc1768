@@ -1,0 +1,5 @@
+data/main.cpp.i
+data/LinearAnalogSensor.lib.i
+data/mbed.bld.i
+data/FastPWM.lib.i
+data/FastAnalogIn.lib.i

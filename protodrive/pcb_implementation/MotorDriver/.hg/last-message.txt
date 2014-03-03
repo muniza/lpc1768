@@ -1,0 +1,1 @@
+Edited so that Timers keep running all the time even after disables are called to keep compatibility with Tachometer class.
